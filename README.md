@@ -31,4 +31,7 @@ The full roadmap is managed in Notion.
 
 ## Contact
 For any inquiries, please reach out via email:
-[ToIndieStudio](toindiestudio@gmail.com)
+[toindiestudio@gmail.com](mailto:toindiestudio@gmail.com)
+
+This repository is for **portfolio and showcase purposes only**.  
+See [LICENSE] for details.
