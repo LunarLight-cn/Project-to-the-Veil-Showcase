@@ -29,9 +29,6 @@ The full roadmap is managed in Notion.
 - xTenser — Enemy AI, combat mechanics  
 - Miteas — Pixel art, characters, environment assets, soundtracks  
 
-## License
-This repository is for **portfolio and showcase purposes only**.  
-
-- The **source code** of this project is private and not included here.  
-- All **art, music, and assets** are proprietary and may not be copied, reused, or redistributed.  
-- This public repository is intended solely as a project overview for recruitment, presentation, and portfolio review.  
+## Contact
+For any inquiries, please reach out via email:
+[ToIndieStudio](toindiestudio@gmail.com)
