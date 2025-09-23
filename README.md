@@ -25,8 +25,8 @@ The full roadmap is managed in Notion.
 *soon*  
 
 ## ToIndieStudio
-- LunarLight — Systems, world generation, environment  
-- xTenser — Enemy AI, combat mechanics  
+- [LunarLight](https://github.com/LunarLight-cn) — Systems, world generation, environment  
+- [xTenser](https://github.com/xTenser-ToIndieStudio) — Enemy AI, combat mechanics 
 - Miteas — Pixel art, characters, environment assets, soundtracks  
 
 ## Contact
